@@ -1,2 +1,2 @@
 # sampleproject
-sample repo
+sample repo project
